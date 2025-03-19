@@ -1,3 +1,6 @@
 [submodule "250312_stopwatch"]
 	path = 250312_stopwatch
 	url = https://github.com/Ever-glow/250312_stopwatch
+[submodule "250317_uart"]
+	path = 250317_uart
+	url = https://github.com/Ever-glow/0317_uart_tx.srcs
