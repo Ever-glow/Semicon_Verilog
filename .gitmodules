@@ -7,3 +7,6 @@
 [submodule "250319_mem"]
 	path = 250319_mem
 	url = https://github.com/Ever-glow/250319_mem
+[submodule "250320_uart_fifo"]
+	path = 250320_uart_fifo
+	url = https://github.com/Ever-glow/250320_uart_fifo
