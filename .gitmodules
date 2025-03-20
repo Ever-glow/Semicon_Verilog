@@ -4,3 +4,6 @@
 [submodule "250317_uart"]
 	path = 250317_uart
 	url = https://github.com/Ever-glow/0317_uart_tx.srcs
+[submodule "250319_mem"]
+	path = 250319_mem
+	url = https://github.com/Ever-glow/250319_mem
