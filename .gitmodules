@@ -16,3 +16,6 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/Ever-glow/250328_project_total
+[submodule "250414_RISC_V_ALL.srcs"]
+	path = 250414_RISC_V_ALL.srcs
+	url = https://github.com/Ever-glow/250414_RISC_V_ALL.srcs
