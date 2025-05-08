@@ -19,3 +19,6 @@
 [submodule "250414_RISC_V_ALL.srcs"]
 	path = 250414_RISC_V_ALL.srcs
 	url = https://github.com/Ever-glow/250414_RISC_V_ALL.srcs
+[submodule "APB"]
+	path = APB
+	url = https://github.com/Ever-glow/250508_RISC_V_APB
